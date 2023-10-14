@@ -35,7 +35,7 @@ async def main():
     return {'hello': 'world'}
 
 
-@app.post('/transfer')
+@app.post('/create_query')
 async def post_querry(data=Body()):
     try:
         count = data['questions_num']
