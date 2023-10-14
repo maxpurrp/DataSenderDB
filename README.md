@@ -20,7 +20,7 @@ Request:
 ### Postgresql
 Postgresql with Sqlalchemy is used for data storage. This bundle allows you to conveniently connect to the database and work productively with it. Sqlalchemy allows you to use python code to work with databases as if they were ordinary objects in Python
 
-### Установка и использование
+### usage
 
 1. ```git clone https://github.com/maxpurrp/DataSenderDB```
 2. ```cd DataSenderDB```
